@@ -31,19 +31,3 @@ This dataset contains details about electric vehicles (EVs) available in the mar
 - **Identifying customer segments** based on price, battery capacity, and driving range.
 - **Assisting EV manufacturers** to optimize features for different market segments.
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/indian-ev-market-analysis.git
-   ```
-2. Install the necessary libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Explore the dataset and analysis scripts to reproduce the results.
-
-## Contribution
-Contributions are welcome! Feel free to fork the repository, submit pull requests, or suggest features.
-
-## License
-This project is licensed under the MIT License.
